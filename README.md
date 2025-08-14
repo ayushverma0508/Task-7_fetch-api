@@ -45,4 +45,5 @@ Basic responsive design with CSS Grid
 This project is part of the Web Development Internship tasks, aimed to improve skills in asynchronous JavaScript, APIs, and error handling.
 
 
-🔗 Live Demo: Your Live Link Here#
+🔗 Live Demo: Your Live Link Here: 
+https://ayushverma0508.github.io/Task-7_fetch-api/
