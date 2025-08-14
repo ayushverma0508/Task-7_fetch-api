@@ -25,7 +25,7 @@ task7/fetch-api
 ## 📖 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ayushverma0508/task7-fetch-api.git
+   git clone https://github.com/ayushverma0508/Task-7_fetch-api.git
 Open index.html in your browser.
 
 Click Reload Data to fetch data again.
