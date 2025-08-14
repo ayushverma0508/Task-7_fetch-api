@@ -10,10 +10,6 @@ task7/fetch-api
 ├── script.js
 └── README.md
 
-yaml
-Copy
-Edit
-
 ## 🚀 Features
 - Fetch user data from `https://jsonplaceholder.typicode.com/users`
 - Display **Name**, **Email**, and **Address**
@@ -47,5 +43,6 @@ Basic responsive design with CSS Grid
 
 📝 Task Reference
 This project is part of the Web Development Internship tasks, aimed to improve skills in asynchronous JavaScript, APIs, and error handling.
+
 
 🔗 Live Demo: Your Live Link Here#
